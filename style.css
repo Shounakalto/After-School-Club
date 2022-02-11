@@ -1,0 +1,37 @@
+hr{
+    height: 5%;
+    background-color: orange;
+    font-family: copper std black;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    size: 100px;
+  }
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 
+{   text-align: center;
+    font-family: co;
+    color: green ;
+	font-size: 300%;  
+    font-weight: bold;
+}
+body{
+    text-align: center;
+}
+li{
+    text-align: center;
+    color: red;
+}
+h2{
+    color: red;
+    text-align: center;
+}
+h3{
+    color: white;
+    background-color: olive;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
